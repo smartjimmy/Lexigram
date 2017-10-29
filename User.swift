@@ -15,5 +15,7 @@ class User: NSObject {
     var last_name: String?
     var profilePicUrl: String?
     var provider: String?
+    
+    
 }
 
